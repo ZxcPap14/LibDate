@@ -38,8 +38,7 @@ Create by: Денис Казанцев & Артем Николаев
         }
     }
 
-
-    -Tests
+-Tests
 
     
                 using Microsoft.VisualStudio.TestTools.UnitTesting;
